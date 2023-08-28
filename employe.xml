@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employe_details>
+    <employee>
+		<title lang="en">My Employee</title>
+		<Personal>
+			<fname> Narendren </fname>
+			<lname> G</lname>
+			<DOB>25-02-2000 </DOB>
+			<Gender> Male</Gender>
+		</Personal>
+		<Employment>
+			<position> Senior Manager </position>
+			<Salary>76000</Salary>
+		</Employment>
+		<contact>
+			<Email>narendran.g@mca.christuniversity.in</Email>
+			<Phone>7892505334</Phone>
+		</contact>
+	</employee>
+    <employee >
+		<title lang="en">My Employee</title>
+		<Personal>
+			<fname> santhosh </fname>
+			<lname> op</lname>
+			<DOB>15-08-2002 </DOB>
+			<Gender> Male</Gender>
+		</Personal>
+		<Employment>
+			<position>project head</position>
+			<Salary>100000</Salary>
+		</Employment>
+		<contact>
+			<Email>santhosh@mca.christuniversity.in</Email>
+			<Phone>7892505324</Phone>
+		</contact>
+	</employee>
+    <employee >
+		<title lang="en">My Employee</title>
+		<Personal>
+			<fname> arunoth </fname>
+			<lname> symen</lname>
+			<DOB>14-05-2003 </DOB>
+			<Gender> Male</Gender>
+		</Personal>
+		<Employment>
+			<position> uI/designer</position>
+			<Salary>85000</Salary>
+		</Employment>
+		<contact>
+			<Email>symen@mca.christuniversity.in</Email>
+			<Phone>7892505123</Phone>
+		</contact>
+	</employee>
+</employe_details>
